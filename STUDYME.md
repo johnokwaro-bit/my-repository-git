@@ -1,0 +1,1 @@
+This document contains the steps to successfully create a basic website using html.
